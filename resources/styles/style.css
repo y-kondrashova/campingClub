@@ -13,3 +13,12 @@ html {
     text-transform: capitalize;
 }
 /*GENERAL STYLES*/
+
+nav p {
+    padding: 30px 20px;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/*HEADER STYLES*/
